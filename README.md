@@ -3,7 +3,7 @@ Thanks to IOTA.ECO/IOTA Sandbox for using with MaM
 
 	1. Install nodejs 
 	
-	2. Create a folder with master .js file
+	2. Create a folder with master index.js file
 		a. Clone and npm Install iota.lib.js files from https://github.com/iotaledger/iota.lib.js#gettransfers
 		b. Clone and npm install johnny-five from https://github.com/rwaldron/johnny-five
 		c. Clone mam.client.js from https://github.com/iotaledger/mam.client.js
