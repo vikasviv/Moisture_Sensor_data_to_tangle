@@ -22,4 +22,4 @@ Thanks to IOTA.ECO/IOTA Sandbox for using with MaM
 	
 	9. Program should start attaching sensor data to Tangle
 
-	5. Copy paste from the console "https://thetangle.org/YourInitialRoot" to view it on Tangle
+	10. Copy paste from the console "https://thetangle.org/YourInitialRoot" to view it on Tangle
