@@ -1,0 +1,17 @@
+{
+  "name": "vikas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iota.lib.js": "file:iota.lib.js",
+    "johnny-five": "^0.15.0",
+    "moment": "^2.22.2",
+    "serialport": "^6.2.1"
+  }
+}
